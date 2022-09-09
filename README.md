@@ -26,9 +26,14 @@
   
 7. Functions Assignment (Core)
   - [Starter Notebook](./Functions_Assignment_(Core)_STARTER_NOTEBOOK.ipynb)
+  - Solutions Not Provided for Core Assignments
   
 8. Bakery NumPy Exercise  (Core)
   - [Starter Notebook](./NumPy_Bakery_Starter_Notebook_v2_1.ipynb)
+  - Solutions Not Provided for Core Assignments
+
 
 9. Project 1 - Part 1 (Core)
   - No starter notebook
+  - Solutions Not Provided for Core Assignments
+
