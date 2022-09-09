@@ -1,5 +1,7 @@
 # ds-fundamentals-notebooks
 
+![png](./Images/Data%20Science%20Thumbnail.png)
+
 1. Variables and Primitive Data Types (Practice)
   - [Starter Notebook](./Variables_and_Primitive_Data_Types-STARTER%20NOTEBOOK.ipynb)
   - [Solution](./SOLUTION_Variables_and_Primitive_Data_Types.ipynb)  
