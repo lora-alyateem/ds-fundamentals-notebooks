@@ -1,12 +1,12 @@
 # ds-fundamentals-notebooks
 
 1. Variables and Primitive Data Types (Practice)
-
-  - [Starter Notebook](./Variables_and_Primitive_Data_Types-STARTER NOTEBOOK.ipynb)
+  - [Starter Notebook](./Variables_and_Primitive_Data_Types-STARTER%20NOTEBOOK.ipynb)
   - [Solution](./SOLUTION_Variables_and_Primitive_Data_Types.ipynb)  
   
 2. Indexing and Slicing (Practice)
   - [Starter Notebook](./Indexing_and_Slicing.ipynb)
+  - [Solution](./SOLUTION_Indexing_and_Slicing.ipynb)
   
 3. Indexing and Slicing - Dictionaries (Practice)
   - [Starter Notebook](./Indexing_and_Slicing_Dictionaries_STARTER.ipynb)
